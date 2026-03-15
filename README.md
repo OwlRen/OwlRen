@@ -1,3 +1,6 @@
+<div>
+   <img width="100%" src="assets/1.gif"/>
+</div>
 <h1 align="center">Olá visitantes</h1>
 
 <div align="center">
@@ -56,7 +59,7 @@ Estarei apresentando alguns fatos sobre mim!
     <details open>
     <summary>Minha Sequencia e Linguagens Mais usadas</summary>
         <div>
-        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OwlRen&theme=buefy-dark&locale=pt_BR" alt="GitHub Streak" /></a>
+        <img src="https://github-readme-stats-ten-zeta-77.vercel.app/api?username=OwlRen&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
         </div>
     </details>
 </div>
@@ -65,7 +68,7 @@ Estarei apresentando alguns fatos sobre mim!
     <details open>
     <summary>Minha Sequencia e Linguagens Mais usadas</summary>
         <div>
-        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OwlRen&theme=buefy-dark&locale=pt_BR" alt="GitHub Streak" /></a>
+        <img src="https://github-readme-stats-ten-zeta-77.vercel.app/api/top-langs?username=OwlRen&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
         </div>
     </details>
 </td>
@@ -105,19 +108,19 @@ Estarei apresentando alguns fatos sobre mim!
 
 <div align="center">
     <a href="www.linkedin.com/in/renatosantanna0940" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="https://x.com/OwlRenn" target="https://x.com/OwlRenn">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
     </a>
     <a href="https://t.me/OwlRen" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
     </a>
     <a href="https://youtube.com" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
     </a>
     <a href="https://twitch.tv" target="_blank">
-    <img src="    https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white ">
+    <img src="    https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white "/>
     </a>
 </div>
 
