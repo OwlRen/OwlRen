@@ -3,26 +3,20 @@
 </div>
 <h1 align="center">Olá visitantes</h1>
 
-<div align="center">
-<table>
-
 <!-- Linha 1  -->
-<tr>
-<td width="50%" valign="top">
 
 ## Sobre mim
 
-Sejam bem vindos ao meu laboratório e centro de desenvolvimento!<br>
+Sejam bem vindos ao meu laboratório e centro de desenvolvimento!
 Estarei apresentando alguns fatos sobre mim!
 
-👨‍💻 Bacharel em Ciência da Computação  
-🤖 Interessado em Inteligência Artificial e Robótica  
-🔧 Desenvolvendo projetos com Arduino e sistemas embarcados  
+👨‍💻 Bacharel em Ciência da Computação
+
+🤖 Interessado em Ciência de Dados, Inteligência Artificial e Robótica
+
+🔧 Desenvolvendo projetos com Arduino e sistemas embarcados como hobby
+
 🚀 Em busca da primeira oportunidade na área de tecnologia
-
-</td>
-
-<td width="50%" valign="top">
 
 ## Tecnologias e Bibliotecas
 
@@ -49,65 +43,22 @@ Estarei apresentando alguns fatos sobre mim!
 <img width="10">
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 </div>
-</td>
-</tr>
 
 <!-- Linha 2  Streak e Linguas mais Usadas-->
-<tr>
-<td>
+<hr>
+
 <div>
-    <details open>
-    <summary>Minha Sequencia e Linguagens Mais usadas</summary>
-        <div>
-        <img src="https://github-readme-stats-ten-zeta-77.vercel.app/api?username=OwlRen&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
-        </div>
-    </details>
-</div>
-</td>
-<td>
-    <details open>
-    <summary>Minha Sequencia e Linguagens Mais usadas</summary>
-        <div>
-        <img src="https://github-readme-stats-ten-zeta-77.vercel.app/api/top-langs?username=OwlRen&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
-        </div>
-    </details>
-</td>
-</tr>
-<!-- Linha 3 -->
-
-<!-- <tr>
-<td colspan="2">
-
-<h2 align="center">Contatos</h2>
-<div align="center">
-    <a href="www.linkedin.com/in/renatosantanna0940" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://x.com/OwlRenn" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
-    </a>
-    <a href="https://t.me/OwlRen" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-    </a>
-    <a href="https://youtube.com" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-    </a>
-    <a href="https://twitch.tv" target="_blank">
-    <img src="    https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white ">
-    </a>
+<img src="https://github-readme-stats-ten-zeta-77.vercel.app/api?username=OwlRen&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
 </div>
 
--PS: Youtube e Twitch ainda serão configurados
-
-</td>
-</tr>
--->
-</table>
+<div>
+<img src="https://github-readme-stats-ten-zeta-77.vercel.app/api/top-langs?username=OwlRen&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+</div>
 
 <h2 align="center">Contatos</h2>
 
 <div align="center">
-    <a href="www.linkedin.com/in/renatosantanna0940" target="_blank">
+    <a href="https://www.linkedin.com/in/renatosantanna0940" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="https://x.com/OwlRenn" target="https://x.com/OwlRenn">
@@ -115,29 +66,5 @@ Estarei apresentando alguns fatos sobre mim!
     </a>
     <a href="https://t.me/OwlRen" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-    </a>
-    <a href="https://youtube.com" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-    </a>
-    <a href="https://twitch.tv" target="_blank">
-    <img src="    https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white "/>
-    </a>
+    </a>  
 </div>
-
-<!----
-<img src="">
-
-<img src="">
-
-<img src="">
-
-<a href="" target="">
-
-</a>
-
-<img src="">
-
-<img src="">
-
-<img src="">
--->
